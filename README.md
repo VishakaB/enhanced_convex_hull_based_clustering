@@ -1,5 +1,6 @@
-# enhanced_convex_hull_based_clustering
-Enhanced Convex Hull based Clustering for High Population Density Avoidance under D2D Enabled Network
+# Enhanced Convex Hull based Clustering for High Population Density Avoidance under D2D Enabled Network
+
+Accepted to: 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)
 
 Find paper at: https://www.researchgate.net/publication/356959893_Enhanced_Convex_Hull_based_Clustering_for_High_Population_Density_Avoidance_under_D2D_Enabled_Network
 
